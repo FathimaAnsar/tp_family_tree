@@ -45,9 +45,9 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
         1.1.2.4.1. Yasir
         1.1.2.4.2. Ammar
     1.1.3. Ayn Ridha Shariff + Zahir Saleem
-      1.1.3.1. Muhammad Zafarullah Saleem + Shiraza
-        1.1.3.1.1. Sulaiman
-      1.1.3.2. Muhammad Zahran Saleem + Zahrana
+      1.1.3.1. Mohamed Zafarullah Saleem + Fathima Shiraza Fouz
+        1.1.3.1.1. Ameer Sulaiman
+      1.1.3.2. Mohamed Zahran Hussain Saleem + Fathima Zahrana
       1.1.3.3. Mirzana Saleem + M. Thahir
         1.1.3.3.1. Abdulla
         1.1.3.3.2. Khadija
