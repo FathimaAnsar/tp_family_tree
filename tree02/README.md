@@ -58,7 +58,7 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
       1.1.5.1. Fathima Ameena Yehiya
       1.1.5.2. Fazal Ahamed Yehiya + Fathima Hafsa Rasheed
         1.1.5.2.1. Ahamed Fadhil Fazal
-        1.1.5.2.2. Hudha Aleeza Fazal
+        1.1.5.2.2. Huda Aleeza Fazal
         1.1.5.2.3. Hud Mikail Fazal
       1.1.5.3. Fathima Azmiya Yehiya + Mohamed Cassim Farook
         1.1.5.3.1. Areeb Afzal Cassim
