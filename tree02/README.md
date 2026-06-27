@@ -27,11 +27,10 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
         1.1.1.5.2. Iman Hannah
     1.1.2. Basheer Ahmed Shariff + Luthfia Saleem
       1.1.2.1. Fiaza Ahmed + Lafir
-        1.1.2.1.1. Zainab + M. Azard
-          1.1.2.1.1.1. Sakeena
-          1.1.2.1.1.2. Thahini
+        1.1.2.1.1. Zainab Lafir + M. Azard
+          1.1.2.1.1.1. Sakeena Thahani
         1.1.2.1.2. Hazim Lafir
-        1.1.2.1.3. Zulaiha
+        1.1.2.1.3. Zulaiha Lafir
       1.1.2.2. Dr. Yusuf Ahmed + Shaheena Shareef
         1.1.2.2.1. Ibrahim
         1.1.2.2.2. Sabeeha
@@ -60,8 +59,10 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
       1.1.5.2. Fazal Ahamed Yehiya + Fathima Hafsa Rasheed
         1.1.5.2.1. Ahamed Fadhil Fazal
         1.1.5.2.2. Hudha Aleeza Fazal
+        1.1.5.2.3. Hud Mikail Fazal
       1.1.5.3. Fathima Azmiya Yehiya + Mohamed Cassim Farook
         1.1.5.3.1. Areeb Afzal Cassim
+        1.1.5.3.2. Adeel Ahsan Cassim
     1.1.6. Muhammad Khalid Shariff + Zeenathul Nifaya Thavoos
       1.1.6.1. Hikam Khalid
     1.1.7. Muhammad Faizal Shariff

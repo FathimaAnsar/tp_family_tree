@@ -34,7 +34,7 @@ tp_family_tree/
 │   ├── tree1.yaml          # Packeer Thamby + Ameena Umma  (1st marriage)
 │   └── tree2.yaml          # Packeer Thamby + Safiya Umma   (2nd marriage)
 └── tree02/                 # detailed tree for Muhammad Shariff Hajiar's line
-    ├── tree01.md           # human-readable rendered outline of the whole tree
+    ├── README.md           # human-readable rendered outline of the whole tree
     ├── root/
     │   ├── root.yaml       # founder + 1st wife (Ummu Zabila),  20 children
     │   └── root2.yaml      # founder + 2nd wife (Noor Mazaya),  12 children
@@ -86,7 +86,7 @@ Offsprings:
 
 ## The rendered outline
 
-`tree02/tree01.md` is a generated, human-readable view of the entire tree as a numbered outline:
+`tree02/README.md` is a generated, human-readable view of the entire tree as a numbered outline:
 
 - `1.x …` — descendants through the founder's **first** marriage (Ummu Zabila).
 - `2.x …` — descendants through the founder's **second** marriage (Noor Mazaya).
@@ -105,4 +105,4 @@ Numbers deepen with each generation (e.g. `1.10.1.1.1` is a great-great-grandchi
 1. To add a couple, create a new card in `branches/` (for a founder's child) or `leaves/` (deeper), using the schema above.
 2. Make sure the head's name exactly matches how they are listed in their parent's `Offsprings`.
 3. Add the person to their parent card's `Offsprings` if they are not already there.
-4. Reflect the change in the `tree02/tree01.md` outline.
+4. Reflect the change in the `tree02/README.md` outline.
