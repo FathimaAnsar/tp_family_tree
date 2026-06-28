@@ -44,15 +44,15 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
       1.1.2.4. Ishrath Ahmed + Fathima Hamza
         1.1.2.4.1. Yasir
         1.1.2.4.2. Ammar
-    1.1.3. Ayn Ridha Shariff + Zahir Saleem
+    1.1.3. Ayne Ridha Shariff + Zahir Saleem
       1.1.3.1. Mohamed Zafarullah Saleem + Fathima Shiraza Fouz
         1.1.3.1.1. Ameer Sulaiman
       1.1.3.2. Mohamed Zahran Hussain Saleem + Fathima Zahrana
-      1.1.3.3. Mirzana Saleem + M. Thahir
-        1.1.3.3.1. Abdulla
-        1.1.3.3.2. Khadija
-        1.1.3.3.3. Yusra
-        1.1.3.3.4. Umairah
+      1.1.3.3. Mirzana Zahir Saleem + A.L.M. Thahir
+        1.1.3.3.1. Khadeeja Thahir + Saiyaff Farook
+        1.1.3.3.2. Abdullah Thahir
+        1.1.3.3.3. Yusra Thahir
+        1.1.3.3.4. Umaira Thahir
     1.1.4. Sithy Jazeema Shariff
     1.1.5. Muhammad Yehiya Shariff + Fathima Fareeka
       1.1.5.1. Fathima Ameena Yehiya
