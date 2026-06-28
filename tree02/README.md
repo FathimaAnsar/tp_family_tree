@@ -25,7 +25,7 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
       1.1.1.5. Ayaz Aboo Haniffa + Sumaiyah Badurdeen
         1.1.1.5.1. Sofiya Mariam
         1.1.1.5.2. Iman Hannah
-    1.1.2. Basheer Ahmed Shariff + Luthfia Saleem
+    1.1.2. Mohamed Fawzy Bashir Ahmed + Sithy Fathima Luthufiya Saleem
       1.1.2.1. Fiaza Ahmed + Lafir
         1.1.2.1.1. Zainab Lafir + M. Azard
           1.1.2.1.1.1. Sakeena Thahani
@@ -35,12 +35,12 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
         1.1.2.2.1. Ibrahim
         1.1.2.2.2. Sabeeha
         1.1.2.2.3. Hannah
-      1.1.2.3. Fathima Nyla + Naushard Kalideen
-        1.1.2.3.1. Hasna
-        1.1.2.3.2. Haseena
-        1.1.2.3.3. Umar
-        1.1.2.3.4. Ammani
-        1.1.2.3.5. Maryam Sarah
+      1.1.2.3. Fathima Nyla Ahmed + Mohmed Khalideen Naushad
+        1.1.2.3.1. Aysha Hasna Naushad + Abdarrahman Sadurdeen Khan
+        1.1.2.3.2. Fathima Haseena Naushad + Minzar Cader
+        1.1.2.3.3. Mohmed UmarKhalid Naushad
+        1.1.2.3.4. Amani Saleema Naushad
+        1.1.2.3.5. Maryam Sarah Naushad
       1.1.2.4. Ishrath Ahmed + Fathima Hamza
         1.1.2.4.1. Yasir
         1.1.2.4.2. Ammar
