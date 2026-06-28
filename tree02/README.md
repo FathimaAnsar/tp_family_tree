@@ -65,7 +65,16 @@ Generated from the root cards [`root/root.yaml`](root/root.yaml) (1st marriage, 
         1.1.5.3.2. Adeel Ahsan Cassim
     1.1.6. Muhammad Khalid Shariff + Zeenathul Nifaya Thavoos
       1.1.6.1. Hikam Khalid
-    1.1.7. Muhammad Faizal Shariff
+    1.1.7. Muhammad Fawzy Mohammed Faizal + Sithy Shifa Faizal
+      1.1.7.1. Fathima Durraishawar Faizal + Abdul Azeez Thajur Rahman
+        1.1.7.1.1. Suheyla Thajur Rahman + Shabeer Shuhaib
+        1.1.7.1.2. Mohammed Sulaim Thajur Rahman
+        1.1.7.1.3. Fathima Sidhra Thajur Rahman
+        1.1.7.1.4. Shifa Samha Thajur Rahman
+        1.1.7.1.5. Sabeeha Mariam Thajur Rahman
+      1.1.7.2. Fathima Sharazan Faizal + Alavi Izadeen Mohammed Athoof Shumsudeen
+        1.1.7.2.1. Athoof Shumsudeen Mohammed Aasif Izadeen
+        1.1.7.2.2. Athoof Shumsudeen Ahamed Atheef Izadeen
     1.1.8. Muhammad Izzeth Shariff + Shireen Furha Issadeen
       1.1.8.1. Shaziya Izzeth + Irshad Ismail
         1.1.8.1.1. Shabier Irshad
